@@ -1,0 +1,14 @@
+$ git init
+$ touch sample
+$ git add sample
+$ git status
+$ git commit
+$ git commit -m initial commit
+$ git config --global user.name Panthamajay
+$ git config --global user.mail panthamajay11@gmail.com
+$ git remote
+$ git remote add origin
+$ git push -u origin https://github.com/Panthamajay/sample.git 
+
+ 
+These are the steps which I hve followed for creating a DVCS
